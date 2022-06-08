@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.bg-gradient1{
+  background: rgb(215,249,255);
+background: linear-gradient(0deg, rgba(215,249,255,1) 0%, rgba(88,177,217,1) 63%, rgba(0,132,190,1) 97%);
+}
+
+.col-bg-orange{
+  background-color: #ffd894;
+}
+
+.col-bg-2{
+  background-color: #e67f65;
+}
